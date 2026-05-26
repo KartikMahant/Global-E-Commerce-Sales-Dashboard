@@ -4,14 +4,6 @@ An interactive and visually engaging **Power BI Dashboard** designed to analyze 
 
 ---
 
-## 📊 Dashboard Preview
-
-![Global E-Commerce Sales Dashboard] 
-<a href="https://app.powerbi.com/your-link">
-  <img src="images/Global E-Commerce Sales Dashboard.png" width="900">
-</a>
-
----
 
 ## 🚀 Features
 
