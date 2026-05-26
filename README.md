@@ -69,4 +69,4 @@ An interactive and visually engaging **Power BI Dashboard** designed to analyze 
 │── 📄 README.md
 │── 📊 Ecommerce_Dashboard.pbix
 │── 🖼️ dashboard-preview.png
-│── 📁 dataset
+│── 📊 global_ecommerce_sales.csv
