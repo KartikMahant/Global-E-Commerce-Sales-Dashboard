@@ -6,7 +6,7 @@ An interactive and visually engaging **Power BI Dashboard** designed to analyze 
 
 ## 📊 Dashboard Preview
 
-![Global E-Commerce Sales Dashboard](./Screenshot%202026-05-26%20142139(1).png)
+![Global E-Commerce Sales Dashboard] Global E-Commerce Sales Dashboard.png
 
 ---
 
